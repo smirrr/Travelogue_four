@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Travelogue_four/static/css/main.f20f44ce.css",
+    "main.js": "/Travelogue_four/static/js/main.f1ec1417.js",
+    "static/js/787.5804fd1e.chunk.js": "/Travelogue_four/static/js/787.5804fd1e.chunk.js",
+    "index.html": "/Travelogue_four/index.html",
+    "main.f20f44ce.css.map": "/Travelogue_four/static/css/main.f20f44ce.css.map",
+    "main.f1ec1417.js.map": "/Travelogue_four/static/js/main.f1ec1417.js.map",
+    "787.5804fd1e.chunk.js.map": "/Travelogue_four/static/js/787.5804fd1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20f44ce.css",
+    "static/js/main.f1ec1417.js"
+  ]
+}
